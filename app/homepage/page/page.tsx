@@ -125,7 +125,7 @@ export default function HomePage() {
           <InputeMain type="tel" placeholder="Your phone number" />
         </FormGroup>
         <FormGroup>
-          <Select placeholder= 'Lists of courses goes here' />
+          <Select/>
         </FormGroup>
         <ButtonWrapper>
           <div>
